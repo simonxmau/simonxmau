@@ -19,3 +19,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+[![wakatime](https://wakatime.com/badge/user/018ee7a3-08bb-467b-86ef-f68439fe0731.svg)](https://wakatime.com/@simonxmau)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=simonxmau" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonxmau&layout=compact&langs_count=8&card_width=320" />
+</a>
