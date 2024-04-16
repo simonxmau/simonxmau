@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/018ee7a3-08bb-467b-86ef-f68439fe0731.svg)](https://wakatime.com/@simonxmau)
+[![wakatime](https://wakatime.com/badge/user/018ee7a3-08bb-467b-86ef-f68439fe0731.svg)](https://wakatime.com/@simonmau)
 
 
 <!--START_SECTION:waka-->
