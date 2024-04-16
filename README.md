@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=simonxmau&label=PROFILE+VIEWS&style=flat)
+
+- 📫 How to reach me: git@simonmau.me
+- 😄 Pronouns: he/him
+
 <!--
 **simonxmau/simonxmau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
