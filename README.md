@@ -2,8 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=simonxmau&label=PROFILE+VIEWS&style=flat)
 
-- 📫 How to reach me: git@simonmau.me
-- 😄 Pronouns: he/him
+I'm Simon Mau, a backend developer enthusiast. I often work with languages such as Java, Python, C/C++, PHP, and I'm passionate about fields like artificial intelligence and application reverse engineering.
+
+On GitHub, I mainly store some of my projects, while also learning from outstanding ones. Occasionally, I try to enhance their functionality. Although I haven't achieved any significant milestones or made important contributions yet, I eagerly anticipate learning and growing.
+
+If you're interested in my work or would like to connect, feel free to drop me an email at [git@simonmau.me](git@simonmau.me) or visit my blog at [simonmau.me](simonmau.me).
+
+Looking forward to discussing technology and growing together!
 
 <!--
 **simonxmau/simonxmau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
