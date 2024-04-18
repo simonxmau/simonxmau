@@ -1,11 +1,13 @@
 name: Waka Readme
 
+env:
+  TZ: Asia/Shanghai
+
 on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    - cron: "3 41 * * *"
-    timezone: Asia/Shanghai
+    - cron: "3 53 * * *"
 
 jobs:
   update-readme:
