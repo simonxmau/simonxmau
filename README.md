@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++                   37 hrs 46 mins  ████████████░░░░░░░░░░░░░   47.81 %
-Other                 29 hrs 32 mins  █████████▒░░░░░░░░░░░░░░░   37.39 %
-CMake                 4 hrs 43 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-ObjectiveC            3 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-Markdown              1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+C++                   31 hrs 54 mins  ███████████▒░░░░░░░░░░░░░   45.36 %
+Other                 30 hrs 8 mins   ██████████▓░░░░░░░░░░░░░░   42.83 %
+CMake                 3 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+ObjectiveC            1 hr 59 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+C                     50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
