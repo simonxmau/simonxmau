@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other                           34 hrs 11 mins  █████████████████▒░░░░░░░   69.67 %
-C++                             3 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Astro                           2 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Python                          2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-CMake                           1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Other                           36 hrs 5 mins   █████████████████▒░░░░░░░   68.72 %
+Astro                           4 hrs 45 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+Python                          2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+C++                             1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+CSS                             1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
