@@ -33,11 +33,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other            19 hrs 33 mins  ████████████████████████▒   97.61 %
-C++              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-textmate         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Objective-C      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-TypeScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other          17 hrs 34 mins  █████████████████████████   100.00 %
+Figma Design   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
