@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   19 hrs 2 mins   █████████████████████████   100.00 %
+Other     18 hrs 27 mins  ████████████████████████░   95.82 %
+Jupyter   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+YAML      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Python    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
