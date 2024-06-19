@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   16 hrs 47 mins  ████████████████████████▓   98.67 %
-YAML    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Other    19 hrs 25 mins  ███████████████████████▓░   94.83 %
+SQL      59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Python   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+YAML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
