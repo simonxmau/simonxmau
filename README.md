@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other            22 hrs 59 mins  ████████████████████░░░░░   79.92 %
-Jupyter          2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-Python           1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-JavaScript       1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Docker           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Other            23 hrs 40 mins  ████████████████████▒░░░░   81.04 %
+Jupyter          2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+Python           1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+JavaScript       1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Markdown         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
