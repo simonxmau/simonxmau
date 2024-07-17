@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        43 hrs 5 mins   ██████████████████████▒░░   89.56 %
-Jupyter      2 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-HTML         1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Python       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-JSON         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Other        45 hrs 25 mins  ███████████████████████░░   92.61 %
+Jupyter      1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+HTML         1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Python       18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+SQL          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
