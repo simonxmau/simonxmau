@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   31 hrs 8 mins   █████████████████████████   100.00 %
+Other   28 hrs 11 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
