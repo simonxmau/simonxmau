@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other            35 hrs 32 mins  ███████████████████████▓░   94.53 %
-Go               1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Emacs Lisp       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Batchfile        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-GitIgnore file   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other            39 hrs 34 mins  ███████████████████████░░   92.20 %
+Go               1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+JavaScript       1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Emacs Lisp       16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+JSON             13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
