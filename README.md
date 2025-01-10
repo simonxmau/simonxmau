@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      6 hrs 27 mins   ████████████████████████░   96.34 %
-Markdown   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Other      7 hrs 35 mins   ████████████████████████▒   97.27 %
+Markdown   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
