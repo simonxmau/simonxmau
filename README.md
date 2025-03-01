@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         10 hrs 2 mins   █████████████████████████   99.68 %
-Image (svg)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other        9 hrs 54 mins   ███████████████████████▓░   94.31 %
+Markdown     32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
