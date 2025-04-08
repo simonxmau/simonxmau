@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      9 hrs 34 mins   ████████████████████████▓   98.32 %
-Swift      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Other      14 hrs 19 mins  ██████████████████████▓░░   90.93 %
+Swift      1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+PHP        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Java       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
