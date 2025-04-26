@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         32 hrs 16 mins  █████████████████▒░░░░░░░   69.74 %
-Swift         9 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   19.95 %
-Markdown      1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-JavaScript    1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Image (svg)   1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Other         28 hrs 4 mins   ██████████████████▒░░░░░░   73.23 %
+Swift         6 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+Markdown      1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JavaScript    1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Image (svg)   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
