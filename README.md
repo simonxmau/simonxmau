@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         25 hrs 32 mins  ███████████████████████░░   92.49 %
-Markdown      55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Swift         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Ignore List   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Other         24 hrs 4 mins   ███████████████████████░░   91.95 %
+Markdown      56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Swift         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Ignore List   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 PHP           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
