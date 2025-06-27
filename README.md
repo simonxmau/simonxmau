@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other    9 hrs 33 mins   ███████████████████████░░   92.53 %
-Swift    33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Python   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Other   9 hrs 22 mins   ████████████████████████░   96.04 %
+Swift   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
